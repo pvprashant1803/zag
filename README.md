@@ -22,7 +22,7 @@ The app will be launched in your default web browser.
 
 ## Live Version
 
-You can also access a live version of this app by visiting the following link: [Live Version](https://pvprashant1803/github.io/zag)
+You can also access a live version of this app by visiting the following link: [Live Version](https://pvprashant1803.github.io/zag)
 
 Please note that the live version may not always reflect the latest changes made to the source code.
 
