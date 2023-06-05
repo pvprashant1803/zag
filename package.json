@@ -2,6 +2,7 @@
   "name": "zag",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://pvprashant1803/github.io/zag",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
