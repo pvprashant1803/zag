@@ -10,9 +10,9 @@ Welcome to my awesome React app! This application was built using ReactJS and Ta
 
 To run this app locally on your machine, follow these steps:
 
-1. Clone the repository using the following command: git clone https://github.com/pvprashant1803/my-awesome-app.git
+1. Clone the repository using the following command: git clone https://github.com/pvprashant1803/zag.git
 
-2. Navigate into the project directory: cd my-awesome-app
+2. Navigate into the project directory: cd zag
 
 3. Install the project dependencies: npm install
 
@@ -22,9 +22,7 @@ The app will be launched in your default web browser.
 
 ## Live Version
 
-You can also access a live version of this app by visiting the following link:
-
-[Live Version](https://pvprashant1803/github.io/zag)
+You can also access a live version of this app by visiting the following link: [Live Version](https://pvprashant1803/github.io/zag)
 
 Please note that the live version may not always reflect the latest changes made to the source code.
 
