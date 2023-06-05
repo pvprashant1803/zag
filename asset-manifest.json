@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/zag/static/css/main.a36e680a.css",
+    "main.js": "/github.io/zag/static/js/main.0592bb00.js",
+    "static/js/787.58974c22.chunk.js": "/github.io/zag/static/js/787.58974c22.chunk.js",
+    "index.html": "/github.io/zag/index.html",
+    "main.a36e680a.css.map": "/github.io/zag/static/css/main.a36e680a.css.map",
+    "main.0592bb00.js.map": "/github.io/zag/static/js/main.0592bb00.js.map",
+    "787.58974c22.chunk.js.map": "/github.io/zag/static/js/787.58974c22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36e680a.css",
+    "static/js/main.0592bb00.js"
+  ]
+}
