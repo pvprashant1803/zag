@@ -59,6 +59,7 @@ export default function Payment() {
 
     return (
         <>
+        <div className="max-w-[375px]">
         <h1 className="font-bold text-xl text-center mt-16">Payment</h1>
 
         <div className="mt-10 bg-blue-200 mx-5 max-w-[375px]x`">
@@ -115,6 +116,7 @@ export default function Payment() {
                 </>
             )
             }
+        </div>
         </div>
         </>
     )

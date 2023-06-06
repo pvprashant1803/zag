@@ -11,14 +11,14 @@ import Dashboard from './pages/Dashboard';
 
 export default function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
-      <Routes>
-          <Route index element={<Home />} />
-        <Route path="/productpage" element={<ProductPage />} />
-        <Route path="/payment" element={<Payment />} />
-        <Route path="/dashboard" element={<Dashboard />} />
-      </Routes>
-    </BrowserRouter>
+    <BrowserRouter basename="/zag">
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/productpage" element={<ProductPage />} />
+      <Route path="/payment" element={<Payment />} />
+      <Route path="/dashboard" element={<Dashboard />} />
+    </Routes>
+  </BrowserRouter>
   );
 }
 

@@ -26,7 +26,7 @@ function ProductPage() {
 
     return (
         <>
-            <div className='max-w-[375px'>
+            <div className='max-w-[375px]'>
 
                 <div className="relative">
                     <img className="w-full" src='./image.jpg' />
